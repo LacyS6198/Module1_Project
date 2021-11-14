@@ -52,7 +52,7 @@ Based on the goal amount (currency), "Fever" did not perform as well as the majo
 ### Limitation of Dataset
 Below are limitations of the dataset available for analysis.
  - Length of campaign (time between date created and date ended) was not included. This could provide additional insight into the success and failure of campaigns, especially when coupled with other data points. For example, shorter campaigns with higher goal amounts may result in a higher failure rate. 
- - Demographic information was not included. Meaningful demographic information may include average income level within the country given and preferences within the country.
+ - Demographic information was not included. Meaningful demographic information may include average income level within the launch country and preferences within the country.
  - Categorization of play topic was not included. For example, drama vs comedy. This categorization would allow for a more in-depth comparison of play campaign outcomes. 
  - Columns "staff_pick" and "spotlight" were not defined. Without defining what these columns represent, we are unable to determine whether they could affect results and should, or should not, be included within the analysis.
  - Currency values were not standardized. Due to currency rate differences, comparison of goal amounts is skewed. For example, the play titled "Fishcakes" had a goal of $800 GBP. When converted to USD at today's rates, this value is approximately $1,073 USD. In the analysis, the goal for "Fishcakes" was included in the "Less than $1,000" goal category but had the currency been standardized to USD it would have been inlcuded in the "1000 to 4999" goal category. 
