@@ -33,7 +33,7 @@ Based on launch date, the campaign for "Fever" did not perform as well as other 
 
 The launch month of June has the second highest successful outcomes; the month of May has the highest. While May has a higher number of successful outcomes, it also has a higher number of campaigns launched. The overall percentage of successful Theater campaigns in May is 67% of the total, compared to 65% for the month of June. "Fever" would have had only a slightly better chance of being successful had it been launched in May.
 
-When comparing all of the launch months' success and failure rates as a percentage of total, May and Jne have the highest percentage of successful campaigns. This indicates that while "Fever" did not perform as well as the majority of campaigns launched in June, launching in a different month would not have significantly increased the odds of being successful.
+When comparing all of the launch months' success and failure rates as a percentage of total, May and Jne have the highest percentage of successful campaigns. This indicates that while "Fever" did not perform as well as the majority of campaigns launched in June, launching in a different month would not have significantly increased the odds of being successful. Other factors likely affected the campaign's results, in addition to the launch month.
 
 - What can you conclude about the Outcomes based on Goals?
 
