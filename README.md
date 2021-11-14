@@ -12,10 +12,12 @@ Outcomes were analyzed based on the parent category of "Theater" and month of ca
  - All subcategories under the "Theater" parent category were included in the analysis. 
  - All years of launch were included in the analysis. 
 
-The fundraising campaign for the play "Fever" was lanched in June, 2016. A total of 153 campaigns, including "Fever", were launched within the month of June with an outcome of either successful, failed or canceled (note, "live" outcomes were exclded from analysis). The breakdown of campaign success/failed/canceled rates is as follows:
+The fundraising campaign for the play "Fever" was launched in the month of June. A total of 153 campaigns, including "Fever", were launched within the month of June with an outcome of either successful, failed or canceled ("live" outcomes were excluded from analysis). The breakdown of campaign success/failed/canceled rates is as follows:
  - Successful:  100 campaigns (65% of total)
  - Failed:  49 campaigns (32% of total)
- - Canceled:  4 campaigns (3% of total).
+ - Canceled:  4 campaigns (3% of total)
+
+Based on launch date, the campaign for "Fever" did not perform as well as other theater campaigns launched in the same month.
 
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/93630042/141681124-81354d5d-fa60-4bb5-ab3d-65c6824d9eb2.png)
 
