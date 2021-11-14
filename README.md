@@ -3,6 +3,7 @@
 ## Overview of Project
 
 ### Purpose
+The purpose of this project is to analyze the outcomes of funding campaigns for theaters and plays to help Louise better understand the results of her funding campaign for her play "Fever". Her play came close to its funding goal and she would like to better understand how this compares against other campaigns in relation to both the start date and funding goal.  
 
 ## Analysis and Challenges
 
