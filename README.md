@@ -35,7 +35,7 @@ The play "Fever" had a goal of $2,885.00, falling in the goal category of "1000 
 ### Challenges and Difficulties Encountered
 The video in Module 1.0.4 indicated that Louise was looking for funding of over $10,000 while the data set shows the play name "Fever" of having a goal of $2,885. This discrepancy made me question whether the analysis being completed was accurate. However, the video did not indicate the launch month. Without this information, we would not be able to perform an analysis by launch month. Based on this logic, I decided to move forward with the data in the spreadsheet for the play name "Fever - a workshop production" and considered the goal discrepancy to be a flaw in the recording.
 
-The "Outcomes Based on Goals" instructions in the "Module 1 Challenge" fails to take into account goals equal to $50,000. The instructions state to create the last two goal ranges as "45000 to 49999" and "Greater than 50000". Following these ranges, the values equal to $50,000 would be excluded from the analysis. After further review, I found that the inclusion of campaigns with a goal equal to $50,000 changed the number of failed and total outcomes but did not change the percentages for each category. All outcomes equal to $50,000 were "failed" and since this analysis was based on percentages, it did not impact the overall results. FOr this reason, I kept the goal range of "45000 to 49999" in order to match the Module's instructions.
+The "Outcomes Based on Goals" instructions in the "Module 1 Challenge" fails to take into account goals equal to $50,000. The instructions state to create the last two goal ranges as "45000 to 49999" and "Greater than 50000". Following these ranges, the values equal to $50,000 would be excluded from the analysis. After further review, I found that the inclusion of campaigns with a goal equal to $50,000 changed the number of failed and total outcomes but did not change the percentages for each category. All outcomes equal to $50,000 were "failed" and since this analysis was based on percentages, it did not impact the overall results. For this reason, I kept the goal range of "45000 to 49999" in order to match the Module's instructions.
 
 ![Challenges1](https://user-images.githubusercontent.com/93630042/141683548-8f810b9f-e644-4751-8681-864db0c741a2.png)
 
@@ -49,6 +49,12 @@ When comparing all of the launch months' success and failure rates as a percenta
 ### Conclusions - Outcomes based on Goals
 Based on the goal amount (currency), "Fever" did not perform as well as the majority of other campaigns within the "1000 to 4999" range. However, campaigns with a goal of "1000 to 4999" had the second highest success rate (73%); the range of "Less than 1000" had the highest with a 76% successful outcome rate. "Fever" may have had a slightly better chance of being successful had its goal been less than $1,000. 
 
-- What are some limitations of this dataset?
+###Limitation of Dataset
+Below are limitations of the dataset available for analysis.
+ - Length of campaign (time between date created and date ended) was not included.
+ - Demographics, specifically preferences within the geographical areas that may affect outcomes, was not included. For example, whether plays are more popular in Great Britain than the United States. 
+ - Categorization of play topic was not inclded. For example, drama vs comedy.
+ - Columns "staff_pick" or "spotlight" were not defined. Without defining what these columns represent, unable to determine whether they should be included within the analysis and/or could contribute to results. 
+ - Currency values were not standardized. Currency rates vary and skew the ability to compare goals. For example, $10,000 GBP is not equal to $10,000 USD.
 
 - What are some other possible tables and/or graphs that we could create?
