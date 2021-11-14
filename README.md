@@ -49,7 +49,7 @@ When comparing all of the launch months' success and failure rates as a percenta
 ### Conclusions - Outcomes based on Goals
 Based on the goal amount (currency), "Fever" did not perform as well as the majority of other campaigns within the "1000 to 4999" range. However, campaigns with a goal of "1000 to 4999" had the second highest success rate (73%); the range of "Less than 1000" had the highest with a 76% successful outcome rate. "Fever" may have had a slightly better chance of being successful had its goal been less than $1,000. 
 
-###Limitation of Dataset
+### Limitation of Dataset
 Below are limitations of the dataset available for analysis.
  - Length of campaign (time between date created and date ended) was not included.
  - Demographics, specifically preferences within the geographical areas that may affect outcomes, was not included. For example, whether plays are more popular in Great Britain than the United States. 
