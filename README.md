@@ -52,7 +52,7 @@ Based on the goal amount (currency), "Fever" did not perform as well as the majo
 ### Limitation of Dataset
 Below are limitations of the dataset available for analysis.
  - Length of campaign (time between date created and date ended) was not included.
- - Demographics, specifically preferences within the geographical areas that may affect outcomes, was not included. For example, whether plays are more popular in Great Britain than the United States. 
+ - Demographic information was not included. Meaningful demographic information may include average income level within the country given and preferences within the country (ex: preference for plays over musicals).
  - Categorization of play topic was not included. For example, drama vs comedy.
  - Columns "staff_pick" and "spotlight" were not defined. Without defining what these columns represent, unable to determine whether they should be included within the analysis and/or could contribute to results. 
  - Currency values were not standardized. Currency rates vary and skew goal amount comparisons. For example, $10,000 GBP is not equal to $10,000 USD.
