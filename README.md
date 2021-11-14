@@ -55,6 +55,6 @@ Below are limitations of the dataset available for analysis.
  - Demographics, specifically preferences within the geographical areas that may affect outcomes, was not included. For example, whether plays are more popular in Great Britain than the United States. 
  - Categorization of play topic was not inclded. For example, drama vs comedy.
  - Columns "staff_pick" or "spotlight" were not defined. Without defining what these columns represent, unable to determine whether they should be included within the analysis and/or could contribute to results. 
- - Currency values were not standardized. Currency rates vary and skew the ability to compare goals. For example, $10,000 GBP is not equal to $10,000 USD.
+ - Currency values were not standardized. Currency rates vary and skew goal amount comparisons. For example, $10,000 GBP is not equal to $10,000 USD.
 
-- What are some other possible tables and/or graphs that we could create?
+### Other Possible Tables/Graphs
