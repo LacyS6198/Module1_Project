@@ -1,5 +1,23 @@
-# Module1_Project_KickstarterAnalysis
-Data Analytics BootCamp - module 1 project - Excel "Kickstarter Analysis"
-![Modle1_LaunchDateChart](https://user-images.githubusercontent.com/93630042/141652683-23643a79-50d1-4c04-a239-bd17dc04602b.png)
-![Modle1_SubcategoryChart](https://user-images.githubusercontent.com/93630042/141652687-69a43908-c83d-4eb2-ad0b-b74a5727e851.png)
-![Module1_ParentCategoryOutcomes](https://user-images.githubusercontent.com/93630042/141652688-ffc0c8ca-dc36-445e-b271-93a9fed89c22.png)
+# Kickstarting with Excel
+
+## Overview of Project
+
+### Purpose
+
+## Analysis and Challenges
+
+### Analysis of Outcomes Based on Launch Date
+
+### Analysis of Outcomes Based on Goals
+
+### Challenges and Difficulties Encountered
+
+## Results
+
+- What are two conclusions you can draw about the Outcomes based on Launch Date?
+
+- What can you conclude about the Outcomes based on Goals?
+
+- What are some limitations of this dataset?
+
+- What are some other possible tables and/or graphs that we could create?
