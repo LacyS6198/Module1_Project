@@ -11,30 +11,38 @@ The purpose of this project is to analyze the outcomes of funding campaigns for 
 Outcomes were analyzed based on the parent category of "Theater" and month of campaign launch. 
  - All subcategories under the "Theater" parent category were included in the analysis. 
  - All years of launch were included in the analysis. 
- - Outcomes of "succcessful", "failed" and "canceled" were considered; outcomes of "live" were excluded from the analysis.
+ - Outcomes of "successful", "failed" and "canceled" were considered; outcomes of "live" were excluded from the analysis.
 
 The fundraising campaign for the play "Fever" was launched in the month of June. A total of 153 campaigns, including "Fever", were launched within the month of June with an outcome of either successful, failed or canceled. The breakdown of campaign success/failed/canceled rates is as follows:
  - Successful:  100 campaigns (65% of total)
  - Failed:  49 campaigns (32% of total)
  - Canceled:  4 campaigns (3% of total)
 
-The launch month of June has the second highest successful outcomes; the month of May has the highest. While May has a higher number of successful outcomes, it also has a higher number of campaigns launched. The overall percentage of successful Theater campaigns in May is 67% of the total, compared to 65% for the month of June. "Fever" would have had only a slightly better chance of being successful had it been launched in May.
+Based on the number of successful campaigns launched in June, the play "Fever" did not perform as well as the majority of other campaigns.
+
+The launch month of June has the second highest successful outcomes; the month of May has the highest. While May has a higher number of successful outcomes, it also has a higher number of campaigns launched. The overall percentage of successful Theater campaigns in May is 67% of the total, compared to 65% for the month of June. "Fever" may have had only a slightly better chance of being successful had it been launched in May.
 
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/93630042/141681124-81354d5d-fa60-4bb5-ab3d-65c6824d9eb2.png)
 
 ### Analysis of Outcomes Based on Goals
-Outcomes were also analyzed based on the subcategory "plays" and total goal ($) amount.
+Outcomes were also analyzed based on the subcategory "plays" and total goal amount (currency).
+
+The play "Fever" had a goal of $2,885.00, falling in the goal category of "1000 to 4999". This category had a 73% successful campaign rate and a 27% failed campaign rate. Based on the percentage of successful play campaigns within this goal range, the play "Fever" did not perform as well as the majority of other campaigns. 
+
+
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/93630042/141682483-4367131c-5fb8-4e65-bdba-2443b11f9a5c.png)
 
 ### Challenges and Difficulties Encountered
 
 ## Results
 
-### Conclusions - Outcomes based on Launch Date?
+### Conclusions - Outcomes based on Launch Date
 Based on launch date, the campaign for "Fever" did not perform as well as other theater campaigns launched in the same month. 65% of campaigns were successful while "Fever" was not and failed to meet its goal.
 
-When comparing all of the launch months' success and failure rates as a percentage of total, May and June have the highest percentage of successful campaigns. This indicates that while "Fever" did not perform as well as the majority of campaigns launched in June, launching in a different month would not have significantly increased the odds of being successful. Other factors likely contributed to the "Fever" campaign results.
+When comparing all of the launch months' success and failure rates as a percentage of total, May and June have the highest percentage of successful campaigns. This indicates that while "Fever" did not perform as well as the majority of campaigns launched in June, launching in a different month would not have significantly increased the odds of being successful. The analysis indicates that launch month had a slight impact on the outcome but it's most likely not the only contributing factor the "Fever" campaign results. 
 
-- What can you conclude about the Outcomes based on Goals?
+### Conclusions - Outcomes based on Goals
+Based on the goal amount (currency), "Fever" did not perform as well as the majority of other campaigns within the "1000 to 4999" range. However, campaigns with a goal of "1000 to 4999" had the second highest success rate (73%); the range of "Less than 1000" had the highest with a 76% successful outcome rate. "Fever" may have had a slightly better chance of being successful had its goal been less than $1,000. 
 
 - What are some limitations of this dataset?
 
