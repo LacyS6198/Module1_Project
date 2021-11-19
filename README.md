@@ -22,7 +22,7 @@ Based on the number of successful campaigns launched in June, the play "Fever" d
 
 The launch month of June has the second highest successful outcomes; the month of May has the highest. While May has a higher number of successful outcomes, it also has a higher number of campaigns launched. The overall percentage of successful Theater campaigns in May is 67% of the total, compared to 65% for the month of June. "Fever" may have had only a slightly better chance of being successful had it been launched in May.
 
-![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/93630042/141681124-81354d5d-fa60-4bb5-ab3d-65c6824d9eb2.png)
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/93630042/142702568-e56e3de6-a0a5-4257-8c0b-97777083924e.png)
 
 ### Analysis of Outcomes Based on Goals
 Outcomes were also analyzed based on the subcategory "plays" and total goal amount (currency).
@@ -38,6 +38,12 @@ The video in Module 1.0.4 indicated that Louise was looking for funding of over 
 The "Outcomes Based on Goals" instructions in the "Module 1 Challenge" fails to take into account goals equal to $50,000. The instructions state to create the last two goal ranges as "45000 to 49999" and "Greater than 50000". Following these ranges, the values equal to $50,000 would be excluded from the analysis. After further review, I found that the inclusion of campaigns with a goal equal to $50,000 changed the number of failed and total outcomes but did not change the percentages for each category. All outcomes equal to $50,000 were "failed" and since this analysis was based on percentages, it did not impact the overall results. For this reason, I kept the goal range of "45000 to 49999" in order to match the Module's instructions.
 
 ![Challenges1](https://user-images.githubusercontent.com/93630042/141683548-8f810b9f-e644-4751-8681-864db0c741a2.png)
+
+A final challenge that I encountered was in regards to the instructions within the module that give an example of how the "Theater Otucomes Based on Launch Date" pivot table an graph should look. However, the requirements for this portion of the assignmment have a requirement that was not in the instructions. This is to sort the outcomes in descending order. By being careful and completing a final review of the instructions and deliverables I was able to make the update before submitting.
+
+![image](https://user-images.githubusercontent.com/93630042/142702523-1432c7e2-782d-4f9c-ae65-a503280239e6.png)
+
+![image](https://user-images.githubusercontent.com/93630042/142702547-53542dfa-4eda-4d80-bb88-e866510bdd30.png)
 
 ## Results
 
